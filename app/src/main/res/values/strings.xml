@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleGoToNextController</string>
+    <string name="button_text">Hello</string>
+</resources>
